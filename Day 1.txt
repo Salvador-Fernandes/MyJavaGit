@@ -19,5 +19,6 @@ Commands:
 -- git init
 
 -- git status
--- git add name.ext
--- git commit -m "Some Text Message"
+-- git add name.ext --OR-- git add *.ext --OR-- git add .
+-- git commit -m "Some Text Message What current Changes are Made"
+-- git commit -am "Add and Commit Method"
